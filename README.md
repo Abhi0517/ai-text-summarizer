@@ -34,7 +34,7 @@ Tools and technologies used:
 
 ## Points to Consider
 * The API call in Postman is a POST request to the endpoint https://api-inference.huggingface.co/models/facebook/bart-large-cnn with a body containing JSON data. The request's body includes the text to summarize and parameters specifying the minimum and maximum length of the summary.
-* Before proceeding with the project, you need to signup to https://huggingface.co and create an *Access Token* there.
+* Before proceeding with the project, you need to signup to https://huggingface.co and create an *Access Token(read)* there.
 * Then that *Access Token* is to be added in a *.env* file(create new) or as a *Secret* in *Replit*.
 * Nothing else, the project will now be ready to build.
 
