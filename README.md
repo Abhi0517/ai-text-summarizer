@@ -23,7 +23,7 @@ Tools and technologies used:
 
 * Back end:
   * Node.js
-  * Express
+  * Express.js
   * Hugging Face Inference API
 
 * API platform:
