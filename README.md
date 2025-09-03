@@ -1,5 +1,5 @@
 # AI-Text Summarizer
-A web-application designed to simplify and summarize your texts! This app leverages the power of Artificial Intelligence APIs to provide concise summaries of long texts, whether you have a lengthy artice or a research paper. It leverages the Hugging Face Inference API with Facebook’s bart-large-cnn model for generating accurate summaries, built with NodeJS and Express on the backend and a user interface using HTML, CSS, and JavaScript.
+A web-application designed to simplify and summarize your texts! This app leverages the power of Artificial Intelligence APIs to provide concise summaries of long texts, whether you have a lengthy article or a research paper. It leverages the Hugging Face Inference API with Facebook’s bart-large-cnn model for generating accurate summaries, built with NodeJS and Express on the backend and a user interface using HTML, CSS, and JavaScript.
 
 ## WorkFlow and Execution
 * Either clone this repository or import it to Replit(Click the *Run* button to start the project).
